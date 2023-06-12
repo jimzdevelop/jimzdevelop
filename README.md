@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hola me llamo Alex 👋
+
+- Desarrollador de Software FullStack
+- Escribo en mi [blog de programación](https://leojimzdev.com) regularmente
 
 <!--
 **jimzdevelop/jimzdevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
